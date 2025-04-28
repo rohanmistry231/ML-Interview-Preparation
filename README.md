@@ -51,16 +51,18 @@ Welcome to my Machine Learning prep for AI/ML interviews! 🚀 This repository i
   - K-Nearest Neighbors (KNN)
   - Support Vector Machines (SVM)
 - Evaluation Metrics
-  - Mean Squared Error
-  - Mean Absolute Error
-  - R² Score
-  - Accuracy
-  - Precision
-  - Recall
-  - F1 Score
-  - Confusion Matrix
-  - ROC Curve
-  - AUC Score
+  - Regression Metrics
+      - Mean Squared Error
+      - Mean Absolute Error
+      - R² Score
+  - Classification Metrics 
+      - Accuracy
+      - Precision
+      - Recall
+      - F1 Score
+      - Confusion Matrix
+      - ROC Curve
+      - AUC Score
 
 #### 📊 Unsupervised Learning
 - Clustering
