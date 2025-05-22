@@ -3,8 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </div>
 
 <p align="center">Your comprehensive guide to mastering Machine Learning for AI/ML interviews</p>
@@ -133,7 +131,7 @@ This repo is my toolkit for mastering ML for technical interviews and AI/ML care
 - **Week 5-6**: ML Pipelines and Preprocessing
 - **Week 7-8**: Feature Engineering and Model Selection
 - **Week 9-10**: Ensemble Methods and Deployment
-- **Week 11-12**: Interview Practice and Optimization
+- **Week 11-12**: Interview Practice and Optimization    
 
 ## 🤝 Contributions
 
